@@ -1,46 +1,45 @@
 # CS2-PairedProgrammingAssignment
 Contains paired programing assignments for Computer Science II.
 
-## Assignment
-### Objective:
+## Objective:
 The goal of this assignment is to enhance your programming skills through collaboration with peers or with AI assistance. You will learn to tackle coding challenges effectively, whether by working with a classmate or by utilizing ChatGPT as a learning partner. This assignment emphasizes not just solving the problem but also understanding the process and best practices for learning how to program.
 
-### Assignment Overview:
+## Assignment Overview:
 
-#### In-Class Pair Programming (Double Points):
+### In-Class Pair Programming (Double Points):
 Work with a classmate to complete the programming assignment.
 One person will be the “driver” (the person typing the code), and the other will be the “navigator” (the person reviewing and suggesting improvements).
 You should switch roles regularly to ensure both partners contribute equally to the task.
 At the end of the session, submit your solution with:
 The name of your partner.
 A brief statement of who had fingers on the keyboard and how the roles were divided.
-#### ChatGPT as a Programming Partner (Full Points):
+### ChatGPT as a Programming Partner (Full Points):
 If you choose to work independently, you may use ChatGPT as your programming partner.
 Engage in a meaningful dialogue with ChatGPT to solve the assignment, asking questions, exploring different approaches, and learning new concepts.
 Submit the full transcript of your ChatGPT interaction along with your solution.
-#### Best Practices:
+### Best Practices:
 
-##### For Pair Programming:
+#### For Pair Programming:
 
-###### 1. Communication:
+##### 1. Communication:
 Regularly discuss your thought process with your partner. Clear communication will help you both understand the problem better and develop a shared solution.
-###### 2. Weekly Role Assignment:
+##### 2. Weekly Role Assignment:
 Each week, one partner will take on the role of the “driver” (the person typing the code), while the other will be the “navigator” (the person reviewing and suggesting improvements). Only the driver should be actively working on the code during that week’s assignment.
 Partners should alternate roles each week so that both of you gain experience in both driving and mentoring.
-###### 3. Respect and Patience: 
+##### 3. Respect and Patience: 
 Listen to your partner’s ideas, and be open to different approaches. Be patient, especially if your partner is struggling with a concept.
-#### Reflection:
+### Reflection:
 After completing the assignment, take a few minutes to discuss what you learned, what challenges you faced, and how you overcame them.
 
-#### For Using ChatGPT:
+### For Using ChatGPT:
 
-##### Ask Detailed Questions:
+#### Ask Detailed Questions:
 Don’t just ask for the solution. Instead, ask ChatGPT to explain concepts, provide examples, or suggest alternative approaches.
-##### Understand the Code:
+#### Understand the Code:
 Before moving forward, make sure you understand every line of code provided by ChatGPT. Ask follow-up questions if something is unclear.
-##### Experiment:
+#### Experiment:
 Use ChatGPT to explore different ways of solving the problem. Try out variations of the code and ask about the pros and cons of each approach.
-##### Learn by Teaching:
+#### Learn by Teaching:
 Explain your understanding to ChatGPT. Teaching back to the AI can reinforce your learning and highlight any gaps in your knowledge.
 
 ### Submission Requirements:

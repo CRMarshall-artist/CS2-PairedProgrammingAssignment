@@ -1,7 +1,7 @@
 # CS2-PairedProgrammingAssignment
 Contains paired programing assignments for Computer Science II.
 
-## Assignment Perogative
+## Assignment
 ### Objective:
 The goal of this assignment is to enhance your programming skills through collaboration with peers or with AI assistance. You will learn to tackle coding challenges effectively, whether by working with a classmate or by utilizing ChatGPT as a learning partner. This assignment emphasizes not just solving the problem but also understanding the process and best practices for learning how to program.
 

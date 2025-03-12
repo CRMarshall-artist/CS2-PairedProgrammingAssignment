@@ -28,18 +28,18 @@ Each week, one partner will take on the role of the “driver” (the person typ
 Partners should alternate roles each week so that both of you gain experience in both driving and mentoring.
 ##### 3. Respect and Patience: 
 Listen to your partner’s ideas, and be open to different approaches. Be patient, especially if your partner is struggling with a concept.
-### Reflection:
+#### Reflection:
 After completing the assignment, take a few minutes to discuss what you learned, what challenges you faced, and how you overcame them.
 
-### For Using ChatGPT:
+#### For Using ChatGPT:
 
-#### Ask Detailed Questions:
+##### Ask Detailed Questions:
 Don’t just ask for the solution. Instead, ask ChatGPT to explain concepts, provide examples, or suggest alternative approaches.
-#### Understand the Code:
+##### Understand the Code:
 Before moving forward, make sure you understand every line of code provided by ChatGPT. Ask follow-up questions if something is unclear.
-#### Experiment:
+##### Experiment:
 Use ChatGPT to explore different ways of solving the problem. Try out variations of the code and ask about the pros and cons of each approach.
-#### Learn by Teaching:
+##### Learn by Teaching:
 Explain your understanding to ChatGPT. Teaching back to the AI can reinforce your learning and highlight any gaps in your knowledge.
 
 ### Submission Requirements:

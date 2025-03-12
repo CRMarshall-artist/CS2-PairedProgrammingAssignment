@@ -54,7 +54,7 @@ Submit your code along with the full transcript of your interaction with ChatGPT
 This assignment is graded on a pass-fail basis. However, those who submit a complete in-class pair programming assignment will receive double points as a bonus. Your submission should demonstrate a clear understanding of the problem and a thoughtful approach to learning.
 
 ## 12.8 LAB: Words in a range (lists)
-Driver: Joseph/n
+Driver: Joseph\n
 Navigator: Camryn
 
 ### Project Description:
